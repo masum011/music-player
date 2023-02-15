@@ -7,7 +7,7 @@ function chillHop(){
          artist:'Psalm Trees',
          conver:'https://chillhop.com/wp-content/uploads/2022/12/b48463b9b5a0351cc2f34b31fcee6185fdb03bb5-1024x1024.jpg',
          id: uuidv4(),
-         active:false,
+         active:true,
          color: ["#988F7E","#988f7e"],
          audio:"https://mp3.chillhop.com/serve.php/?mp3=49426"
     },
